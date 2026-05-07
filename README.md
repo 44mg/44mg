@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=&color=gradient8&height=300&section=header&text=hello%20world!&fontSize=90" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 * pronouns = "any"
   
