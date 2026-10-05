@@ -107,9 +107,11 @@ This profile brings together my repositories, the technologies I know, and a sna
 
 - **Building:** YOUR_CURRENT_PROJECT
 - **Exploring:** YOUR_CURRENT_LEARNING_FOCUS
-- **Contact:** YOUR_PREFERRED_PUBLIC_CONTACT_LINK
 
 -->
+
+- **Contact:** Discord: lfa7
+
 
 ---
 
