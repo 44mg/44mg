@@ -68,7 +68,7 @@ This profile brings together my repositories, the technologies I know, and a sna
 
 <p align="center">
   <a href="https://www.timeanddate.com/worldclock/uk/london">
-    <img src="https://readmeme.eu.cc/api/time.svg?theme=ink&amp;timezone=Europe/London&amp;timeFormat=24h&amp;showSeconds=0&amp;showDate=1&amp;showDay=1&amp;label=Local+time" alt="My local time in Europe/London — click to check the current time" width="420" />
+    <img src="https://readmeme.eu.cc/api/time.svg?theme=classic&amp;timezone=Europe/London&amp;timeFormat=24h&amp;showSeconds=0&amp;showDate=1&amp;showDay=1&amp;label=Local+time" alt="My local time in Europe/London — click to check the current time" width="420" />
   </a>
 </p>
 
@@ -106,10 +106,8 @@ This profile brings together my repositories, the technologies I know, and a sna
 ## Currently
 
 - **Building:** YOUR_CURRENT_PROJECT
-- **Exploring:** YOUR_CURRENT_LEARNING_FOCUS
-
 -->
-
+- **Exploring:** Currently learning C.
 - **Contact:** Discord: lfa7
 
 
