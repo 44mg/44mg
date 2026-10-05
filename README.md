@@ -51,13 +51,13 @@ This profile brings together my repositories, the technologies I know, and a sna
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/44mg">
     <img src="https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;border_radius=12" alt="GitHub contribution statistics" width="480" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/44mg?tab=repositories">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_radius=12" alt="Most used languages across my repositories" width="400" />
   </a>
 </p>
