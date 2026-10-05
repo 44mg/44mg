@@ -88,5 +88,5 @@ This profile brings together my repositories, the technologies I know, and a sna
 ---
 
 <p align="center">
-  <sub><a href="https://github.com/YOUR_USERNAME?tab=repositories">Browse my work</a> · <a href="https://github.com/YOUR_USERNAME">View my profile</a></sub>
+  <sub><a href="https://github.com/YOUR_USERNAME?tab=repositories">Browse my work</a> · <a href="https://github.com/44mg">View my profile</a></sub>
 </p>
