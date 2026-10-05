@@ -8,9 +8,9 @@
 C · C# · Python · Java · React · Rust
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">Explore my repositories</a>
+  <a href="https://github.com/44mg?tab=repositories">Explore my repositories</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/YOUR_USERNAME?tab=stars">Explore my stars</a>
+  <a href="https://github.com/44mg?tab=stars">Explore my stars</a>
 </p>
 
 </div>
@@ -88,5 +88,5 @@ This profile brings together my repositories, the technologies I know, and a sna
 ---
 
 <p align="center">
-  <sub><a href="https://github.com/YOUR_USERNAME?tab=repositories">Browse my work</a> · <a href="https://github.com/44mg">View my profile</a></sub>
+  <sub><a href="https://github.com/44mg?tab=repositories">Browse my work</a> · <a href="https://github.com/44mg">View my profile</a></sub>
 </p>
